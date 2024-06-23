@@ -9,21 +9,21 @@ const Footer = () => {
         <div className="location">
             <FaHome size={20} style={{color:'#fff',marginRight:"2rem"}}/>
             <div>
-                <p>No:45 sir cv raman street, venkateshwara nagar,Ambattur ,chennai</p>
+                <p>NO.F3, Srivari flats, Mahalakshmi nagar, Camproad East Tamabaram, Chennai</p>
                 <p>Chennai</p>
             </div>
         </div>
         <div className="phone">
         <h4>
             <FaPhone size={20} style={{color:'#fff',marginRight:"2rem"}}/>
-            +91 7339061391
+            +91 7010688553
             </h4>
 
         </div>
         <div className="email">
         <h4>
             <FaMailBulk size={20} style={{color:'#fff',marginRight:"2rem"}}/>
-            jeeva01424@gmail.com
+            athithyaaarjun27@gmail.com
             </h4>
 
         </div>
