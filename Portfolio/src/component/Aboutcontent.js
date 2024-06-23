@@ -10,7 +10,7 @@ const Aboutcontent = () => {
         <div className="left">
             <h1>Who Am I?</h1>
             <p>
-                Im a react font-end Developer. I create responsive secure Websites for my clients.
+                Im a react front-end Developer. I create responsive secure Websites for my clients.
             </p>
             <Link to="/contact">
                 <button className="btn">Contact</button>
